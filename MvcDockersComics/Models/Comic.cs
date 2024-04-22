@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MvcDockersComics.Models
 {
-    [Table("Comics")]
+    [Table("COMICS")]
     public class Comic
     {
         [Key]
